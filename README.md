@@ -1,6 +1,6 @@
-# Registro-de-Doencas-Cardiacas
-# Análise de Dados de Doença Cardíaca
-# Análise Preditiva de Doença Cardíaca
+## Registro-de-Doencas-Cardiacas
+## Análise de Dados de Doença Cardíaca
+## Análise Preditiva de Doença Cardíaca
 
 ## Introdução
 Este projeto tem como objetivo prever a presença de doença cardíaca com base em dados de saúde. Utilizamos um modelo de Regressão Logística para classificar pacientes, apoiando decisões médicas.
