@@ -17,7 +17,7 @@ Este projeto tem como objetivo prever a presença de doença cardíaca com base 
 4. Modelo: treinamos uma Regressão Logística usando o scikit-learn.
 5. Avaliação: medimos acurácia (85%), precisão, recall e calculamos a curva de precisão-recall (AUC-PR).
 
-## Resultados
+## Resultados Obtidos
 O modelo obteve uma acurácia de 85%, com uma AUC-PR de 0,95, indicando boa capacidade de identificar os casos positivos. A análise exploratória também mostrou variáveis-chave, como idade e pressão, que influenciam no risco.
 
 ## Conclusão
