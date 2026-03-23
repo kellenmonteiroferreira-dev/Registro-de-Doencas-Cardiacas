@@ -24,7 +24,7 @@ O modelo obteve uma acurácia de 85%, com uma AUC-PR de 0,95, indicando boa capa
 Este projeto demonstra o uso de Regressão Logística em Python para classificação, oferecendo um modelo robusto para apoio à decisão em saúde. O código está disponível no repositório e pode ser adaptado para outros cenários.
 
 ## Como Executar
-1. Clonar o repositório.
+1. Clonar o repositorio.
 2. Instalar as dependências (`pandas`, `numpy`, `scikit-learn`, `matplotlib`).
 3. Executar no Google Colab ou ambiente local com Jupyter.
 
